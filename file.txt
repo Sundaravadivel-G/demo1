@@ -1,1 +1,2 @@
 message from file.txt
+thanks for this message
